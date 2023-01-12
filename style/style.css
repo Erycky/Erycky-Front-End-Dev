@@ -276,19 +276,17 @@ form input:focus, form textarea:focus {
 .contatos-links div {
     display: inline-block;
     align-self: center;
+    padding-bottom: 36px;
 }
 
-.contatos-links div a {
-    text-decoration: none;
-    color: #262626;
-}
+/* footer */
 
-.main-grid p {
+.footer p {
     text-align: center;
 }
 
-.main-grid p + p {
-    padding-bottom: 24px;
+.footer p + p {
+    padding-bottom: 36px;
 }
 
 /* obrigado pagina */
