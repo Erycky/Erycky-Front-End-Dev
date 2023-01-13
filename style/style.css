@@ -9,7 +9,7 @@
 }
 
 .main-grid {
-    width: 1000px;
+    max-width: 1000px;
     margin: 0 auto;
     /* background-color: aquamarine; */
 }
@@ -88,6 +88,8 @@
 }
 
 .header-img img {
+    width: 160px;
+    height: 160px;
     border: 2px solid #262626;
 }
 
